@@ -1,0 +1,24 @@
+.blockUI.blockOverlay, .blockUI.blockMsg.blockPage {
+	/*display: none !important;*/ 
+}
+#footer .jumbotron.push-spaces {
+    display: none;
+}
+div#report_summary {
+    font-weight: bold;
+    margin-right: 1em;
+    text-align: right;
+    margin-bottom: 2em;
+}
+div#report_summary .summary_row {
+    margin-bottom: 0.25em;
+}
+#reportfooter #btnprint{
+	margin-left:1em;
+}
+button#generate_barcodes {
+    display: none;
+}
+div#receipt_wrapper {    
+    font-size: 14px;
+}
